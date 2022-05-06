@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_asteroid_grande",
-    "path": "sprites/spr_asteroid_grande/spr_asteroid_grande.yy",
+    "name": "spr_asteroide_pequeno",
+    "path": "sprites/spr_asteroide_pequeno/spr_asteroide_pequeno.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,8 +24,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_asteroide_grande","path":"objects/obj_asteroide_grande/obj_asteroide_grande.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_asteroide_grande","path":"objects/obj_asteroide_grande/obj_asteroide_grande.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_asteroide_pequeno","path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_asteroide_pequeno","path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -34,7 +34,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_asteroide_grande",
+  "name": "obj_asteroide_pequeno",
   "tags": [],
   "resourceType": "GMObject",
 }

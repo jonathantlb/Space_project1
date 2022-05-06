@@ -11,3 +11,5 @@ if x <=0{
 instance_destroy();
 }
 
+image_xscale = dano;
+image_yscale = dano;
